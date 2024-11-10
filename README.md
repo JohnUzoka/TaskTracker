@@ -1,3 +1,7 @@
+#TaskTracker
+
+React app for tracking tasks and events with remnders.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
