@@ -1,3 +1,5 @@
+https://github.com/JohnUzoka/TaskTracker/workflows/CI/CD/badge.svg
+
 # TaskTracker
 
 React app for tracking tasks and events with remnders.
