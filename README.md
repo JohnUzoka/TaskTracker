@@ -1,5 +1,5 @@
 https://github.com/JohnUzoka/TaskTracker/workflows/CI/CD/badge.svg
-
+[![CI/CD](https://github.com/JohnUzoka/TaskTracker/actions/workflows/ci.yml/badge.svg)](https://github.com/JohnUzoka/TaskTracker/actions/workflows/ci.yml)
 # TaskTracker
 
 React app for tracking tasks and events with remnders.
