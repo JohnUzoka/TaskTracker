@@ -1,4 +1,5 @@
-https://github.com/JohnUzoka/TaskTracker/workflows/CI/CD/badge.svg
+[![codecov](https://codecov.io/gh/JohnUzoka/TaskTracker/branch/master/graph/badge.svg)](https://codecov.io/gh/JohnUzoka/TaskTracker)
+
 [![CI/CD](https://github.com/JohnUzoka/TaskTracker/actions/workflows/ci.yml/badge.svg)](https://github.com/JohnUzoka/TaskTracker/actions/workflows/ci.yml)
 # TaskTracker
 
