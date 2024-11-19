@@ -5,6 +5,8 @@
 
 React app for tracking tasks and events with remnders.
 
+This is a small project I was working on soley for the purpose of learing the basics of javascript react, and how to use github actons to create a CI/DI Pipeline.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
